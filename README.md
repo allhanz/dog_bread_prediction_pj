@@ -1,4 +1,4 @@
-# dog_bread_prediction_pj
+# dog_bread_classifier
 
 CNN Project [Udacity Deep Learning Nanodegree]
 
@@ -22,10 +22,14 @@ matplotlib==2.1.0
 
 ## some prediction issues
   the following cases may can not be predicted correctly, and also checked in this project.
-  1) the image can not contain the whole human face
-  2) the image both include the human face and other things
-  3) the image both include the dog and other things like cat
+  1) the image can not contain the whole human face, just like as follows:
+   ![alt text](/test_images/human_1.png "mess-labels")
+  2) the image both include the human face and other things,just like as follows:
+   ![alt text](/test_images/dog_human_1.png "mess-labels")
+  3) the image both include the dog and other things like cat, just like as follows:
+  ![alt text](/test_images/cat_dog_1.png "mess-labels")
   4) image include something similar with human face, but not exactly the real human face
+  ![alt text](/test_images/human_2.png "mess-labels")
 
 # some additional information for this project
 
