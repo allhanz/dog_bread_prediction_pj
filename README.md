@@ -23,7 +23,7 @@ matplotlib==2.1.0
 ## some prediction issues
   the following cases may can not be predicted correctly, and also checked in this project.
   1) the image can not contain the whole human face, just like as follows:
-   ![alt text](/test_images/human_1.jpeg "mess-labels")
+   ![alt text](/test_images/human_1.jpg "mess-labels")
   2) the image both include the human face and other things,just like as follows:
    ![alt text](/test_images/dog_human_1.jpeg "mess-labels")
   3) the image both include the dog and other things like cat, just like as follows:
