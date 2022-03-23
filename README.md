@@ -1,7 +1,6 @@
 # dog_bread_classifier
-
 CNN Project [Udacity Deep Learning Nanodegree]
-
+![alt text](/readme_images/Head_image.jpeg "mess-labels")
 ## project oview
 this repo includes my work for the capstion project included in the data scientist nanodegree course. This project is about the prediction of dog breed and human face by using Convolutional Neural Networks (CNNs). in this project i had learned how to build a pipeline to process the real-world, user-supplied images. also by using the transfer learning tech, we no need to train the model from zero, and it becomes possible even we do not have the high performance GPU. in my own, i just use RTX 2070 (8GB) to train my own model only for 20 epoches and achieved around 80% test accuracy. 
 
