@@ -42,11 +42,11 @@ now we just take the dog breed classification model as a example to introduce th
 the following figure(#Fig4) is a high-level model architecture of the image classification. the input data is a image including something, and the output is the prediction results which are the texture data.
 in this dog breed classification project, we will use the dog image dataset which includes 133 breeds dog image data. and below figure(#Fig5) gives some example information about the dog breeds.
 
-here are the steps included in this project. for more details, pls check the post [here](https://medium.com/@jobhunthanz/build-a-simple-dog-breed-classification-model-by-using-transfer-learning-tech-fb600328f02c)
+here are the steps included in this project. for more details, pls check the post [here](https://medium.com/@jobhunthanz/build-a-simple-dog-breed-classification-model-by-using-transfer-learning-tech-fb600328f02c)  \
 Step 0: Import Datasets   \
 Step 1: Create a CNN to Classify Dog Breeds (from Scratch)  \
 Step 2: Use a VGG16 CNN to Classify Dog Breeds (using Transfer Learning)  \
-Step 3: Create a InceptionV3 CNN to Classify Dog Breeds (using Transfer Learning)  \
+Step 3: Create a InceptionV3 CNN to Classify Dog Breeds (using Transfer Learning)  
 
 
 ## Results and accuracy improvements
