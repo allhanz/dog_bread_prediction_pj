@@ -10,7 +10,7 @@ this repo includes my work for the capstion project included in the data scienti
 
 ## dog breeds 
 in this project a dataset including 133 breeds of dog image data is used. the following image is just for a example.
-![alt text](/images/dog_breed_examples.png "mess-labels")
+![alt text](/images/dog_breeds_examples.png "mess-labels")
 
 # packages used in this project
 numpy==1.12.1  \
